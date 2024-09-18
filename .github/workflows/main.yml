@@ -19,4 +19,5 @@ jobs:
           kvm: true
           aosp-clang: true
           android-version: 14
+          anykernel3: true
           aosp-clang-version: r487747c
